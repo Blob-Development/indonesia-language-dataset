@@ -1,10 +1,11 @@
+# Indonesia Language Dataset
+
 > Still updating. **(December 19th, 2020)** <br>
 
 > **Warning:** This project contains profanity and vulgarity. *(16+)*
 
 <img src="https://github.com/Blob-Development/indonesia-language-dataset/blob/main/assets/vertigo3.png" width="768">
 
-# Indonesia Language Dataset
 Here we provide our dataset containing hate speech labels and toxic conversations. <br>
 We take the comments from various social media from Discord, Telegram, Facebook, Twitter, Instagram, Whatsapp, YouTube, and many more.
 
