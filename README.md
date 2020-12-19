@@ -1,3 +1,5 @@
+> Still updating. **(December 19th, 2020)** <br>
+
 > **Warning:** This project contains profanity and vulgarity. *(16+)*
 
 <img src="https://github.com/Blob-Development/indonesia-language-dataset/blob/main/assets/vertigo3.png" width="768">
