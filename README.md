@@ -1,6 +1,6 @@
 # Indonesia Language Dataset
 
-> Still updating. **(December 19th, 2020)** <br>
+> Still updating. **(December 25th, 2020)** <br>
 
 > **Warning:** This project contains profanity and vulgarity. *(16+)*
 
@@ -15,16 +15,16 @@ We take from dictionaries, short words, lexicons, vulgar words, and so on to imp
 # Contributors
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/conver4y"><img src="https://blob-content.s3-us-west-2.amazonaws.com/team/tzsl836of8f31.png" width="150px;" alt=""/><br /><sub><b>ray</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/h29id"><img src="https://blob-content.s3-us-west-2.amazonaws.com/team/b02ba9dbee5d0b33fb2ab8c9f096052f.webp" width="150px;" alt=""/><br /><sub><b>H29id</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/conver4y"><img src="https://blob-content.s3.jp-tok.cloud-object-storage.appdomain.cloud/team_assets/2wsu134l8tf41.png" width="150px;" alt=""/><br /><sub><b>ray</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/h29id"><img src="https://blob-content.s3.jp-tok.cloud-object-storage.appdomain.cloud/team_assets/b02ba9dbee5d0b33fb2ab8c9f096052f.jpg" width="150px;" alt=""/><br /><sub><b>H29id</b></sub></a><br /></td>
   </tr>   
 </table>
 
 # Thank You For The Communities
 <table>
   <tr>
-    <td align="center"><a href="https://blob-project.com/"><img src="https://blob-content.s3-us-west-2.amazonaws.com/content/blob+halloween+hq.png" width="150px;" alt=""/><br /><sub><b>Blob Project</b></sub></a><br /></td>
-    <td align="center"><a href="https://pos-santai.info/"><img src="https://blob-content.s3-us-west-2.amazonaws.com/content/pos+new+logo.png" width="150px;" alt=""/><br /><sub><b>Perkumpulan Orang Santai</b></sub></a><br /></td>
+    <td align="center"><a href="https://blob-project.com/"><img src="https://blob-content.s3.jp-tok.cloud-object-storage.appdomain.cloud/team_assets/blob%20halloween%20hq.png" width="150px;" alt=""/><br /><sub><b>Blob Project</b></sub></a><br /></td>
+    <td align="center"><a href="https://pos-santai.info/"><img src="https://blob-content.s3.jp-tok.cloud-object-storage.appdomain.cloud/team_assets/fd85f440b27f099b7fa15ae4a71fcc78.png" width="150px;" alt=""/><br /><sub><b>Perkumpulan Orang Santai</b></sub></a><br /></td>
   </tr>   
 </table>
 
